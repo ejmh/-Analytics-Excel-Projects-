@@ -1,4 +1,4 @@
-# Analytics-Excel-Project-
+# Analytics-Excel-Projects-
 Project 1: Case Scenario
 As your family debates which team is better, you listen and note the insights of the people around you, as you know it may help you to increase your understanding of your data.
 
